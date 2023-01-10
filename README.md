@@ -4,7 +4,7 @@ Data Base implementation project for Huaral Valley in Peru. Collected data might
 # Proyecto de sistematizacion de informacion agrícola para la venta DTC
 ---
 ## 1. Planteamiento
-El proyecto busca *sistematizar* digitalmente la información de productores del valle de Huaral para la creación de una plataforma para la venta de *productos órganicos directo al consumidor*. El giro de valor para el producto consiste en *agrupar* la información de productores del valle de Huaral, aprovechando frutas de estación para crear *paquetes frescos* actualizados periodicamente según las tendencias en cultivos y productos.
+El proyecto busca **sistematizar** digitalmente la información de productores del valle de Huaral para la creación de una plataforma para la venta de **productos órganicos directo al consumidor**. El giro de valor para el producto consiste en **agrupar** la información de productores del valle de Huaral, aprovechando frutas de estación para crear **paquetes frescos** actualizados periodicamente según las tendencias en cultivos y productos.
 
 #### 1.1 Potencial de crecimiento
 La base de datos permite crecimiento vertical de la información de manera directamente proporcional a la cantidad de usuarios registrados y tipos de cultivos. En otras palabras, el proyecto puede crecer facilmente agrupando otros terrenos fuera de huaral para generar nuevas estrategias de negocio.
@@ -21,14 +21,14 @@ Pensando en el problema del negocio, los datos necesitan estar organizados "jer�
 Según el planteamiento, las necesidades existentes se enfocan en implementar la base de datos y su análisis inicial, con potencial de crecimiento para su mantenimiento y análisis periódico para el desarrollo de la plataforma de venta al consumidor. En ese sentido la segunda fase finaliza idealmente con la integración del análisis de los datos en el crecimiento del negocio.
 
 ##3. Retos y posibilidades
-La sostenibilidad y potencial de crecimiento de la base de datos depende directamente del desarrollo de la plataforma de ventas. Aunque los datos pueden ser útiles también para análisis agrarios y de ventas, dichos análisis no son contemplados en el alcance de este proyecto. Por otro lado, existen referentes internacionales ([Fruit Guys](https://fruitguys.com/);[Farm Fresh to you](https://www.farmfreshtoyou.com/)) que llevan a pensar si existen referentes nacionales que puedan ser una competencia directa o aliados estratégicos.
+La sostenibilidad y potencial de crecimiento de la base de datos depende directamente del desarrollo de la plataforma de ventas. Aunque los datos pueden ser útiles también para análisis agrarios y de ventas, dichos análisis no son contemplados en el alcance de este proyecto. Por otro lado, existen referentes internacionales ([Fruit Guys](https://fruitguys.com/); [Farm Fresh to you](https://www.farmfreshtoyou.com/)) que llevan a pensar si existen referentes nacionales que puedan ser una competencia directa o aliados estratégicos.
 
 Las posibilidades del desarrollo de una base de datos sólida y escalable con aplicaciones relacionadas a la producción agrícola son diversas, los datos incluso pueden ser vendidos por sí mismos a los correctos proveedores. Por poner un ejemplo, [El Frutero](https://www.elfrutero.pe/) podría estar interesado en monitorear excedentes de frutas para sus procesos de congelado. 
 
 La plataforma web de venta genera una mayor independencia en el desarrollo del negocio y la tecnología, pero se necesitan incentivar los beneficios para los productores para aprovechar los recursos al máximo. 
 
 ## 4. Tecnologías y herramientas utilizadas
-_Nota general:_ En apoyo a la difusión del conocimiento y la gratuitidad del aprendizaje, todas las herramientas utilizadas son de "Open Source", un modelo descentralizado en el que todos podemos acceder al código del programa distribuido. Todos los programas de esta lista son *gratuitos*, pero esa característica puede perderse en caso necesitemos una licencia comercial para alguna etapa, lo que no debería ocurrir hasta un crecimiento moderado del proyecto
+_Nota general: En apoyo a la difusión del conocimiento y la gratuitidad del aprendizaje, todas las herramientas utilizadas son de "Open Source", un modelo descentralizado en el que todos podemos acceder al código del programa distribuido. Todos los programas de esta lista son *gratuitos*, pero esa característica puede perderse en caso necesitemos una licencia comercial para alguna etapa, lo que no debería ocurrir hasta un crecimiento moderado del proyecto_
 
 #### 4.1 Software y código
 * [PostgreSQL](https://www.postgresql.org/): Sistema de administración de Base de datos relacional (RDBMS) basada en C con integración en Python, gratuita en descarga y uso. Cuenta con soporte comercial disponible y soluciones de hosting por un precio adicional
@@ -45,4 +45,4 @@ El hardware puede ser instalado en cualquier lugar siempre y cuando tenga un acc
 ## 5. Cronograma e Inversión
 El trabajo está planteado para ser trabajado por productos y según entregables establecidos en fechas concretas. La tabla desagregada de procesos y productos del proyecto se presenta a continuación:
 
-Teniendo en cuenta dichos entregables y reuniones, la inversión total correspondiente es explicada en el siguiente cuadro:
+Teniendo en cuenta dichos entregables y reuniones, la inversión total correspondiente es explicada en documentos adjuntos.
