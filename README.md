@@ -38,7 +38,7 @@ _Nota general:_ En apoyo a la difusión del conocimiento y la gratuitidad del ap
 
 #### 4.2 Hardware
 El hardware puede ser instalado en cualquier lugar siempre y cuando tenga un acceso estable a flujo eléctrico e internet. Los datos contenidos en él solo pueden ser accedidos por las personas que cuenten con autorización de seguridad.
-* [RaspberryPi](https://www.raspberrypi.com/): Computadora modular adaptable de precio accesible. Reemplazaría a un host en la nube o comprar un servidor que supere nuestras necesidades de negocio. El equipo Raspberry sería donde se ubicaría nuestro servidor la base de datos. Con 8GB de RAM podríamos sostener una página web ligera y nuestra red personal sin mayores problemas. En Perú existe un proveedor autorizado )[The Pi Box](https://thepibox.pe/), lo que permitiría comprar estos equipos con RUC y contar con soporte oficial si se hace desde un contacto empresarial.
+* [RaspberryPi](https://www.raspberrypi.com/): Computadora modular adaptable de precio accesible. Reemplazaría a un host en la nube o comprar un servidor que supere nuestras necesidades de negocio. El equipo Raspberry sería donde se ubicaría nuestro servidor la base de datos. Con 8GB de RAM podríamos sostener una página web ligera y nuestra red personal sin mayores problemas. En Perú existe un proveedor autorizado ([The Pi Box](https://thepibox.pe/)), lo que permitiría comprar estos equipos con RUC y contar con soporte oficial si se hace desde un contacto empresarial.
 * Disco Duro externo: Un punto en contra del Raspberry es que, si deseamos guardar grandes cantidades de información, requerimos invertir en un HDD o SDD para contener dicha información.
 * Fuente de Poder: Cable y transformador para conectar el equipo a la corriente eléctrica
 
