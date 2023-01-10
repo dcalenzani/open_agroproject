@@ -1,4 +1,4 @@
-#Proyecto de sistematizacion de informacion agrícola para la venta DTC
+Proyecto de sistematizacion de informacion agrícola para la venta DTC
 ---
 ## 1. Planteamiento
 El proyecto busca *sistematizar* digitalmente la información de productores del valle de Huaral para la creación de una plataforma para la venta de *productos órganicos directo al consumidor*. El giro de valor para el producto consiste en *agrupar* la información de productores del valle de Huaral, aprovechando frutas de estación para crear *paquetes frescos* actualizados periodicamente según las tendencias en cultivos y productos.
