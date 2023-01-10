@@ -33,7 +33,7 @@ _Nota general:_ En apoyo a la difusión del conocimiento y la gratuitidad del ap
 #### 4.1 Software y código
 * [PostgreSQL](https://www.postgresql.org/): Sistema de administración de Base de datos relacional (RDBMS) basada en C con integración en Python, gratuita en descarga y uso. Cuenta con soporte comercial disponible y soluciones de hosting por un precio adicional
 * [PGadmin](https://www.pgadmin.org/): Administrador de escritorio y plataforma de desarrollo para PostgreSQL. Permite visualizar de manera gráfica las bases de datos disponibles y acceder a los datos.
-* [PHP] (https://www.php.net/): Lenguaje general para desarrollo web. Tiene capacidad de ser integrado en código HTML para su interacción con páginas web con una interfaz gráfica más avanzada
+* [PhP](https://www.php.net/): Lenguaje general para desarrollo web. Tiene capacidad de ser integrado en código HTML para su interacción con páginas web con una interfaz gráfica más avanzada
 * [Apache](https://httpd.apache.org/): Proveedor de servicios de HTTP en código abierto, parte base de la comunicación con la base de datos a distancia.
 
 #### 4.2 Hardware
