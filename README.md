@@ -1,7 +1,7 @@
 # Open_Agricultural_project
 Data Base implementation project for Huaral Valley in Peru. Collected data might be modified according to personal privacy ethics.
 
-#Proyecto de sistematizacion de informacion agrícola para la venta DTC
+# Proyecto de sistematizacion de informacion agrícola para la venta DTC
 ---
 ## 1. Planteamiento
 El proyecto busca *sistematizar* digitalmente la información de productores del valle de Huaral para la creación de una plataforma para la venta de *productos órganicos directo al consumidor*. El giro de valor para el producto consiste en *agrupar* la información de productores del valle de Huaral, aprovechando frutas de estación para crear *paquetes frescos* actualizados periodicamente según las tendencias en cultivos y productos.
@@ -31,10 +31,10 @@ La plataforma web de venta genera una mayor independencia en el desarrollo del n
 _Nota general:_ En apoyo a la difusión del conocimiento y la gratuitidad del aprendizaje, todas las herramientas utilizadas son de "Open Source", un modelo descentralizado en el que todos podemos acceder al código del programa distribuido. Todos los programas de esta lista son *gratuitos*, pero esa característica puede perderse en caso necesitemos una licencia comercial para alguna etapa, lo que no debería ocurrir hasta un crecimiento moderado del proyecto
 
 #### 4.1 Software y código
-* [PostgreSQL:](https://www.postgresql.org/): Sistema de administración de Base de datos relacional (RDBMS) basada en C con integración en Python, gratuita en descarga y uso. Cuenta con soporte comercial disponible y soluciones de hosting por un precio adicional
-* [PGadmin:](https://www.pgadmin.org/): Administrador de escritorio y plataforma de desarrollo para PostgreSQL. Permite visualizar de manera gráfica las bases de datos disponibles y acceder a los datos.
+* [PostgreSQL](https://www.postgresql.org/): Sistema de administración de Base de datos relacional (RDBMS) basada en C con integración en Python, gratuita en descarga y uso. Cuenta con soporte comercial disponible y soluciones de hosting por un precio adicional
+* [PGadmin](https://www.pgadmin.org/): Administrador de escritorio y plataforma de desarrollo para PostgreSQL. Permite visualizar de manera gráfica las bases de datos disponibles y acceder a los datos.
 * [PHP] (https://www.php.net/): Lenguaje general para desarrollo web. Tiene capacidad de ser integrado en código HTML para su interacción con páginas web con una interfaz gráfica más avanzada
-* [Apache:](https://httpd.apache.org/): Proveedor de servicios de HTTP en código abierto, parte base de la comunicación con la base de datos a distancia.
+* [Apache](https://httpd.apache.org/): Proveedor de servicios de HTTP en código abierto, parte base de la comunicación con la base de datos a distancia.
 
 #### 4.2 Hardware
 El hardware puede ser instalado en cualquier lugar siempre y cuando tenga un acceso estable a flujo eléctrico e internet. Los datos contenidos en él solo pueden ser accedidos por las personas que cuenten con autorización de seguridad.
