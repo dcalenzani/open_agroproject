@@ -11,10 +11,10 @@ La base de datos permite crecimiento vertical de la información de manera direc
 
 ## 2. Fases del proyecto
 El proyecto consta de 2 fases de clara división, donde la segunda puede ampliar su cronograma de acuerdo a las necesidades de mantenimiento de las bases de datos.
+
 #### 2.1 Fase 1: Formulario
 Consiste en crear el formulario virtual y físico para el llenado por los usuarios de la base de datos. Pensando en la actualización periódica debe pensarse sobre preguntas iterativas (que se repiten en el futuro). En esta fase se necesita *1 reunión de revisión* del formulario, ya que esta información será la principal para organizar el modelo de la base de datos y las relaciones en ella. 
 
-*_Duración aproximada:_* 3 días
 #### 2.22 Fase 2: Base de datos
 Pensando en el problema del negocio, los datos necesitan estar organizados "jerárquicamente. Por poner un ejemplo, datos personales como telefono o correo electrónico están separados porque no queremos visualizarlos todo el tiempo, pero datos como tipo de cultivos activos necesitan estar más "cerca" a nosotros en nuestras búsquedas. Esta fase, aunque inicia junto con el planteamiento del formulario, muestra sus fortalezas después del recojo de información.
 
