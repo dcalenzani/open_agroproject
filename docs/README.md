@@ -1,7 +1,7 @@
 Proyecto de sistematizacion de informacion agrícola para la venta DTC
 ---
 ## 1. Planteamiento
-El proyecto busca *sistematizar* digitalmente la información de productores del valle de Huaral para la creación de una plataforma para la venta de *productos órganicos directo al consumidor*. El giro de valor para el producto consiste en *agrupar* la información de productores del valle de Huaral, aprovechando frutas de estación para crear *paquetes frescos* actualizados periodicamente según las tendencias en cultivos y productos.
+El proyecto busca **sistematizar** digitalmente la información de productores del valle de Huaral para la creación de una plataforma para la venta de **productos órganicos directo al consumidor**. El giro de valor para el producto consiste en **agrupar** la información de productores del valle de Huaral, aprovechando frutas de estación para crear **paquetes frescos** actualizados periodicamente según las tendencias en cultivos y productos.
 
 #### 1.1 Potencial de crecimiento
 La base de datos permite crecimiento vertical de la información de manera directamente proporcional a la cantidad de usuarios registrados y tipos de cultivos. En otras palabras, el proyecto puede crecer facilmente agrupando otros terrenos fuera de huaral para generar nuevas estrategias de negocio.
@@ -12,12 +12,12 @@ El proyecto consta de 2 fases de clara división, donde la segunda puede ampliar
 Consiste en crear el formulario virtual y físico para el llenado por los usuarios de la base de datos. Pensando en la actualización periódica debe pensarse sobre preguntas iterativas (que se repiten en el futuro). En esta fase se necesita *1 reunión de revisión* del formulario, ya que esta información será la principal para organizar el modelo de la base de datos y las relaciones en ella. 
 
 #### 2.22 Fase 2: Base de datos
-Pensando en el problema del negocio, los datos necesitan estar organizados "jerárquicamente. Por poner un ejemplo, datos personales como telefono o correo electrónico están separados porque no queremos visualizarlos todo el tiempo, pero datos como tipo de cultivos activos necesitan estar más "cerca" a nosotros en nuestras búsquedas. Esta fase, aunque inicia junto con el planteamiento del formulario, muestra sus fortalezas después del recojo de información.
+Pensando en el problema del negocio, los datos necesitan estar organizados jerárquicamente. Por poner un ejemplo, datos personales como telefono o correo electrónico están separados porque no queremos visualizarlos todo el tiempo, pero datos como tipo de cultivos activos necesitan estar más "cerca" a nosotros en nuestras búsquedas. Esta fase, aunque inicia junto con el planteamiento del formulario, muestra sus fortalezas después del recojo de información.
 
 Según el planteamiento, las necesidades existentes se enfocan en implementar la base de datos y su análisis inicial, con potencial de crecimiento para su mantenimiento y análisis periódico para el desarrollo de la plataforma de venta al consumidor. En ese sentido la segunda fase finaliza idealmente con la integración del análisis de los datos en el crecimiento del negocio.
 
-##3. Retos y posibilidades
-La sostenibilidad y potencial de crecimiento de la base de datos depende directamente del desarrollo de la plataforma de ventas. Aunque los datos pueden ser útiles también para análisis agrarios y de ventas, dichos análisis no son contemplados en el alcance de este proyecto. Por otro lado, existen referentes internacionales ([Fruit Guys](https://fruitguys.com/);[Farm Fresh to you](https://www.farmfreshtoyou.com/)) que llevan a pensar si existen referentes nacionales que puedan ser una competencia directa o aliados estratégicos.
+## 3. Retos y posibilidades
+La sostenibilidad y potencial de crecimiento de la base de datos depende directamente del desarrollo de la plataforma de ventas. Aunque los datos pueden ser útiles también para análisis agrarios y de ventas, dichos análisis no son contemplados en el alcance de este proyecto. Por otro lado, existen referentes internacionales como ([Fruit Guys](https://fruitguys.com/) o [Farm Fresh to you](https://www.farmfreshtoyou.com/)) que llevan a pensar si existen referentes nacionales que puedan ser una competencia directa o aliados estratégicos.
 
 Las posibilidades del desarrollo de una base de datos sólida y escalable con aplicaciones relacionadas a la producción agrícola son diversas, los datos incluso pueden ser vendidos por sí mismos a los correctos proveedores. Por poner un ejemplo, [El Frutero](https://www.elfrutero.pe/) podría estar interesado en monitorear excedentes de frutas para sus procesos de congelado. 
 
