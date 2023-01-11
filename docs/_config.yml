@@ -2,6 +2,7 @@
 layout: post
 title: Open Agricultural Project
 author: Daniel Calenzani
+theme: jekyll-theme-cayman
 ---
 # Where things are
 source              : ./Open_Agricultural_project
@@ -43,8 +44,6 @@ lsi                 : false
 excerpt_separator   : "\n\n"
 incremental         : false
 
-# Theme
-theme: minima
 
 # Serving
 detach              : false
