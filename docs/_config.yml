@@ -1,8 +1,9 @@
 ---
 layout: post
 title: Open Agricultural Project
+Description: Proyecto inicial sobre el monitoreo de cultivos para la venta directa al consumidor en el valle de Huaral.
 author: Daniel Calenzani
-theme: jekyll-theme-cayman
+remote_theme: pages-themes/minimal@v0.2.0
 ---
 # Where things are
 source              : ./Open_Agricultural_project
@@ -36,6 +37,9 @@ unpublished         : false
 # Plugins
 whitelist           : []
 plugins             : []
+
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
 
 # Conversion
 markdown            : kramdown
