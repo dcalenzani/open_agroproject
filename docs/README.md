@@ -40,3 +40,14 @@ El hardware puede ser instalado en cualquier lugar siempre y cuando tenga un acc
 
 ## 5. Cronograma e Inversión
 El trabajo está planteado para ser trabajado por productos y según entregables establecidos en fechas concretas. La tabla desagregada de procesos y productos del proyecto se presenta en las siguientes tablas.
+
+| Entregable | Fecha de entrega | Costo |
+|:------------:|:------------------:|:-------:|
+| Formularios | 13/01 | 250	|
+| Modelo de datos | 20/01 | 250 |
+| Informe de Resultados |	03/02	| 500 |
+| Tablas finales | 10/02 | 500 |
+| -- |	Total (soles) |	1500 |
+
+
+
